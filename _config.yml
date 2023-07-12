@@ -40,7 +40,7 @@ social_media:
   # medium: your_username
   # stackoverflow: your_user_id
   telegram: birkhoffcheng
-  twitter: birkhoffch
+  # twitter: your_username
   # unsplash: your_username
   # vk: your_username
   website: https://birkhoff.ch/resume.pdf
@@ -51,10 +51,10 @@ topics:
     web_url: https://github.com/topics/security
     image_url: https://media.istockphoto.com/photos/anonymous-hacker-with-laptop-in-front-of-binary-code-cyber-security-picture-id962366210?b=1&k=20&m=962366210&s=170667a&w=0&h=DMo_N3cInUGALDSTZ6vhLmKWfDtSUGstb7-dQC-oVcg=
 
-  - name: Systems/Kernel Software Engineering
+  - name: Software Engineering
     web_url: https://github.com/topics/kernel
     image_url: https://media.istockphoto.com/photos/single-corn-kernel-picture-id538372951?k=20&m=538372951&s=612x612&w=0&h=7dvffW6ArPD3ow02Brx1GYvszdTOy1DHnREXieO7O3U=
 
   - name: Linux Kernel
     web_url: https://www.kernel.org/
-    image_url: https://linuxfoundation.org/wp-content/uploads/linux.svg
+    image_url: https://kernel.org/theme/images/logos/tux.png
